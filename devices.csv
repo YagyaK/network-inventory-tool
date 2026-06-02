@@ -1,0 +1,5 @@
+hostname,ip,device_type,location,status
+Router-1,192.168.1.1,Cisco Router,Data Center,Online
+Switch-1,192.168.1.2,Cisco Switch,Office Floor 1,Online
+Firewall-1,192.168.1.3,Check Point Firewall,Perimeter,Online
+Switch-2,192.168.1.4,Arista Switch,Office Floor 2,Offline
